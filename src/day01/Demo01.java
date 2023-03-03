@@ -6,6 +6,8 @@ package day01;
  */
 public class Demo01 {
     public static void main(String[] args) {
+        System.out.println("----------------------");
+
         System.out.println("Hallo GitHub");
         //定义一个员工 define an employee
         String name1 = "Jhon";
